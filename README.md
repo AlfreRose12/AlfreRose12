@@ -59,9 +59,10 @@ Me encanta tener el control total de mi máquina. Trabajo bajo un esquema **Dual
 ## 🚀 Proyectos Destacados
 
 *   **RetiScan:** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial. (Frontend en React/Flutter y Backend dockerizado).
+*   **SPEIRA:** Aplicación móvil desarrollada con Ionic para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
 
 ---
 
 ## 📫 Contacto
 - **GitHub:** [AlfreRose12](https://github.com/AlfreRose12)
-- **Email:** alfredocuate25@gmail.com
+- **Email:** alfrerose120@hotmail.com
