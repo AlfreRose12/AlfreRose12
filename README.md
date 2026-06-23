@@ -1,23 +1,23 @@
-# ¡Hola! Soy Alfredo Rosas Espinosa 👋
+# ¡Hola! Soy Alfredo Rosas Espinosa
 
 Ingeniero en Desarrollo y Gestión de Software en formación y Técnico Superior Universitario en TI (Área Desarrollo de Software Multiplataforma) por la Universidad Tecnológica del Centro de Veracruz.
 
-Soy un desarrollador apasionado por crear soluciones eficientes, optimizar entornos de trabajo y adoptar las metodologías más modernas de desarrollo.
+Soy un desarrollador enfocado en crear soluciones eficientes, optimizar entornos de trabajo y adoptar metodologías modernas de desarrollo.
 
 ---
 
-## 👁️ Mi Filosofía de Desarrollo: Transparencia e IA
+## Mi Filosofía de Desarrollo: Transparencia e IA
 
-Creo firmemente que el futuro del software no radica en picar código de forma mecánica, sino en saber resolver problemas. Por ello, **mi flujo de trabajo está guiado y optimizado por Inteligencia Artificial**.
+Creo firmemente que el futuro del software no radica en picar código de forma mecánica, sino en saber resolver problemas. Por ello, mi flujo de trabajo está optimizado mediante el uso de Inteligencia Artificial.
 
-*   🧠 **Mi rol:** Yo diseño la arquitectura del proyecto, estructuro la lógica de negocio, resuelvo los bloqueos lógicos y dicto la dirección del software.
-*   🤖 **El rol de la IA:** Utilizo modelos de lenguaje avanzados como copilotos para la escritura, refactorización y aceleración del código fuente. 
+* **Mi rol:** Diseño la arquitectura del proyecto, estructuro la lógica de negocio, resuelvo los bloqueos lógicos y dicto la dirección del software.
+* **El rol de la IA:** Utilizo modelos de lenguaje avanzados como copilotos para la escritura, refactorización y aceleración del código fuente.
 
-Esta mentalidad de **Desarrollo Asistido por IA** me permite ser altamente eficiente, diagnosticar errores en tiempo récord y adaptarme a cualquier tecnología en cuestión de minutos.
+Esta mentalidad de Desarrollo Asistido por IA me permite ser altamente eficiente, diagnosticar errores en tiempo récord y adaptarme a nuevas tecnologías con agilidad.
 
 ---
 
-## 🛠️ Tecnologías y Frameworks
+## Tecnologías y Frameworks
 
 A lo largo de mi formación académica y proyectos personales, he construido soluciones utilizando el siguiente stack tecnológico:
 
@@ -39,30 +39,30 @@ A lo largo de mi formación académica y proyectos personales, he construido sol
 ![API REST](https://img.shields.io/badge/API-REST-%230052CC.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&cubeColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 > 💡 **Nota de optimización:** Actualmente, estas son las tecnologías con las que cuento con el conocimiento; algunas las he trabajado de forma individual y otras en conjunto con la Inteligencia Artificial para optimizar y agilizar los flujos de trabajo.
 
 ---
 
-## 💻 Mi Entorno de Trabajo
+## Mi Entorno de Trabajo
 
-Me encanta tener el control total de mi máquina. Trabajo bajo un esquema **Dual-Boot**, utilizando como entorno principal de desarrollo:
+Trabajo bajo un esquema de Dual-Boot, utilizando como entorno principal para desarrollo:
 
-*   **Sistemas Operativos:** Arch Linux 🐧 (como sistema principal) & Windows 🪟
-*   **Interfaz/Dotfiles:** Personalizado con el estilo minimalista de **Caelestia** y Hyprland.
-*   **Shell:** Fish Shell 🐟
-*   **Editor Principal:** Visual Studio Code 💻
-
----
-
-## 🚀 Proyectos Destacados
-
-*   **[RetiScan](https://github.com/AlfredoRosas12/RetiScan):** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial. (Frontend en React/Flutter y Backend dockerizado).
-*   **[Speira](https://github.com/AlfreRose12/SPEIRA):** Aplicación móvil desarrollada con Ionic para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
+* **Sistemas Operativos:** Arch Linux 🐧 (sistema principal) y Windows
+* **Interfaz y Dotfiles:** Personalizado con el estilo minimalista de Caelestia y Hyprland.
+* **Shell:** Fish Shell
+* **Editor Principal:** Visual Studio Code
 
 ---
 
-## 📫 Contacto
-- **GitHub:** [AlfreRose12](https://github.com/AlfreRose12)
-- **Email:** alfrerose120@hotmail.com
+## Proyectos Destacados
+
+* **[RetiScan](https://github.com/AlfredoRosas12/RetiScan):** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial (Frontend en React/Flutter y Backend dockerizado).
+* **[Speira](https://github.com/AlfreRose12/SPEIRA):** Aplicación móvil desarrollada con Ionic para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
+
+---
+
+## Contacto
+* **GitHub:** [AlfreRose12](https://github.com/AlfreRose12)
+* **Email:** alfrerose120@hotmail.com
