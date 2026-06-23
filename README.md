@@ -39,7 +39,7 @@ A lo largo de mi formación académica y proyectos personales, he construido sol
 ![API REST](https://img.shields.io/badge/API-REST-%230052CC.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&cubeColor=white)
 
 > 💡 **Nota de optimización:** Actualmente, estas son las tecnologías con las que cuento con el conocimiento; algunas las he trabajado de forma individual y otras en conjunto con la Inteligencia Artificial para optimizar y agilizar los flujos de trabajo.
 
@@ -58,8 +58,8 @@ Me encanta tener el control total de mi máquina. Trabajo bajo un esquema **Dual
 
 ## 🚀 Proyectos Destacados
 
-*   **RetiScan:** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial. (Frontend en React/Flutter y Backend dockerizado).
-*   **SPEIRA:** Aplicación móvil desarrollada con Ionic para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
+*   **[RetiScan](https://github.com/AlfredoRosas12/RetiScan):** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial. (Frontend en React/Flutter y Backend dockerizado).
+*   **[Speira](https://github.com/AlfreRose12/SPEIRA):** Aplicación móvil desarrollada con Ionic para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
 
 ---
 
