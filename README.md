@@ -21,48 +21,48 @@ Esta mentalidad de Desarrollo Asistido por IA me permite ser altamente eficiente
 
 A lo largo de mi formación académica y proyectos personales, he construido soluciones utilizando el siguiente stack tecnológico:
 
-### Móvil y Frontend
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Desarrollo Móvil
+[![Móvil](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
 
-### Backend, Bases de Datos y Herramientas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-%230052CC.svg?style=for-the-badge&logo=api&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend y Diseño
+[![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap,figma)](https://skillicons.dev)
+
+### Backend, Lenguajes y Ciencia de Datos
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,java,anaconda)](https://skillicons.dev)
+
+### Bases de Datos, Infraestructura y Herramientas
+[![Herramientas](https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,arduino,git,github,netlify,eclipse,vscode,npm,postman)](https://skillicons.dev)
 
 > 💡 **Nota de optimización:** Actualmente, estas son las tecnologías con las que cuento con el conocimiento; algunas las he trabajado de forma individual y otras en conjunto con la Inteligencia Artificial para optimizar y agilizar los flujos de trabajo.
 
 ---
 
-## Mi Entorno de Trabajo
+## Mi Entorno de Trabajo e Infraestructura
 
-Trabajo bajo un esquema de Dual-Boot, utilizando como entorno principal para desarrollo:
+### Entorno Local (Dual-Boot)
+[![Sistemas Locales](https://skillicons.dev/icons?i=arch,windows)](https://skillicons.dev)
 
-* **Sistemas Operativos:** Arch Linux 🐧 (sistema principal) y Windows
-* **Interfaz y Dotfiles:** Personalizado con el estilo minimalista de Caelestia y Hyprland.
+* **Distribución Principal:** Arch Linux 🐧 personalizado con el estilo minimalista de Caelestia y Hyprland.
 * **Shell:** Fish Shell
 * **Editor Principal:** Visual Studio Code
+
+### Infraestructura y Nube
+[![Servidores](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
+
+* **Servidores Remotos:** Despliegue, administración y configuración de servicios en entornos productivos basados en entornos virtuales privados (VPS) utilizando Debian.
 
 ---
 
 ## Proyectos Destacados
 
-* **[RetiScan](https://github.com/AlfredoRosas12/RetiScan):** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial (Frontend en React/Flutter y Backend dockerizado).
-* **[Speira](https://github.com/AlfreRose12/SPEIRA):** Aplicación móvil desarrollada con Ionic para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
+* **[RetiScan](https://github.com/AlfreRose12/RetiScan):** Sistema multiplataforma para la detección temprana de retinopatía diabética utilizando Inteligencia Artificial (Frontend en React/Flutter y Backend dockerizado).
+* **[Speira](https://github.com/AlfreRose12/Speira):** Aplicación móvil desarrollada para el monitoreo de espirulina, complementada con tecnología IoT. Proyecto de estadía de TSU elaborado en colaboración con compañeros de carrera.
 
 ---
 
 ## Contacto
+[![Contacto](https://skillicons.dev/icons?i=github,gmail,instagram)](https://skillicons.dev)
+
 * **GitHub:** [AlfreRose12](https://github.com/AlfreRose12)
 * **Email:** alfrerose120@hotmail.com
+* **Instagram:** Proximamente...
