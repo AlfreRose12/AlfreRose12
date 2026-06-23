@@ -19,23 +19,34 @@ Esta mentalidad de **Desarrollo Asistido por IA** me permite ser altamente efici
 
 ## 🛠️ Tecnologías y Frameworks
 
-A lo largo de mi formación académica y proyectos personales, he construido soluciones utilizando un stack diverso. Divido mis herramientas de la siguiente manera:
+A lo largo de mi formación académica y proyectos personales, he construido soluciones utilizando el siguiente stack tecnológico:
 
-### 📱 Desarrollo Móvil & Frontend
-- **Dominio y Bases Robustas:** React, Flutter, Ionic, HTML5, CSS3, JavaScript, TypeScript, Bootstrap.
-- **Implementación Avanzada (Asistido por IA):** Angular.
+### Móvil y Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Backend, Bases de Datos & Arquitectura
-- **Bases de Datos:** PostgreSQL, MongoDB.
-- **Comunicaciones:** Diseño y consumo de APIs REST.
+### Backend y Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![API REST](https://img.shields.io/badge/API-REST-%230052CC.svg?style=for-the-badge&logo=api&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+> 💡 **Nota de optimización:** Actualmente, estas son las tecnologías con las que cuento con el conocimiento; algunas las he trabajado de forma individual y otras en conjunto con la Inteligencia Artificial para optimizar y agilizar los flujos de trabajo.
 
 ---
 
-## 💻 Mi Entorno de Trabajo (SysAdmin de Corazón)
+## 💻 Mi Entorno de Trabajo
 
 Me encanta tener el control total de mi máquina. Trabajo bajo un esquema **Dual-Boot**, utilizando como entorno principal de desarrollo:
 
-*   **OS:** Arch Linux 🐧
+*   **Sistemas Operativos:** Arch Linux 🐧 (como sistema principal) & Windows 🪟
 *   **Interfaz/Dotfiles:** Personalizado con el estilo minimalista de **Caelestia** y Hyprland.
 *   **Shell:** Fish Shell 🐟
 
