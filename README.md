@@ -65,4 +65,4 @@ A lo largo de mi formación académica y proyectos personales, he construido sol
 
 * **GitHub:** [AlfreRose12](https://github.com/AlfreRose12)
 * **Email:** alfrerose120@hotmail.com
-* **Instagram:** Proximamente...
+* **Instagram:** [@alfrerose.dev](https://www.instagram.com/alfrerose.dev?igsh=NGQ0YmF6amgzZW1j&utm_source=qr)
