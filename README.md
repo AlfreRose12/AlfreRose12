@@ -31,7 +31,7 @@ A lo largo de mi formación académica y proyectos personales, he construido sol
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,java,anaconda)](https://skillicons.dev)
 
 ### Bases de Datos, Infraestructura y Herramientas
-[![Herramientas](https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,arduino,git,github,netlify,eclipse,vscode,npm,postman)](https://skillicons.dev)
+[![Herramientas](https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,arduino,git,github,netlify,vercel,eclipse,vscode,npm,pnpm,postman)](https://skillicons.dev)
 
 > 💡 **Nota de optimización:** Actualmente, estas son las tecnologías con las que cuento con el conocimiento; algunas las he trabajado de forma individual y otras en conjunto con la Inteligencia Artificial para optimizar y agilizar los flujos de trabajo.
 
