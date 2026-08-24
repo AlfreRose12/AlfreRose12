@@ -91,6 +91,23 @@ A lo largo de mi formación académica y proyectos personales, he construido sol
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <img src="https://res.cloudinary.com/ooa1pvyl/image/upload/v1787553756/logo_od.png" width="40" height="40" valign="middle" />
+        <a href="https://github.com/diegod332/Proyecto_Integrador_4A_TIDSM_EQUIPO_6.git">Odontología Integral</a>
+        <a href="https://github.com/diegod332/Proyecto_Integrador_4A_TIDSM_EQUIPO_6.git">
+        <img src="https://img.shields.io/badge/Ver_en_GitHub-181717?style=flat&logo=github&logoColor=white" valign="middle" /></a>
+      </h3>
+      <p>Sistema integral para la gestión de citas y pacientes en una clínica dental, desarrollado como proyecto integrador de la carrera de TSU.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
